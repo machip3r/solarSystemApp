@@ -1,2 +1,4 @@
-# solarSystemApp
-Aplicación móvil para el aprendizaje acerca del sistema solar. (android)
+# Solar System App
+Aplicación para aprendizaje del sistema solar para niños. (android)
+
+Desarrollado con Kotlin.
