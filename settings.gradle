@@ -1,0 +1,2 @@
+rootProject.name = "spaceLearning"
+include ':app'
